@@ -3,4 +3,4 @@ torch
 pandas
 numpy
 scikit-learn
-rdkit-pypi
+rdkit==2022.9.5
